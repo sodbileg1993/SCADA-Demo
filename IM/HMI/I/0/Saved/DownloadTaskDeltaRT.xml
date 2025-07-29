@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<DownloadTask xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ProjectInfo ProjectId="2f5ba420-2cde-fcfa-1e3c-6075518bf7e8" ESProjectName="SCADA" ESDeviceName="UnifiedPCRuntime" RtProjectFolderName="SCADA.UnifiedPCDemo[SIMATIC PC station - WinCC Unified PC RT]" RtProjectName="SCADA.UnifiedPCDemo[SIMATIC PC station - WinCC Unified PC RT]" DeviceType="SIMATIC PC station - WinCC Unified PC RT" DeviceVersion="19.0.0.2" CreationTime="07/23/2025 08:22:08" FirmwareFileName="" RuntimeFileName="" PRCV="5.0.0.2" RTCV="0.0.0.0" RTReleaseNo="19.0.0.2" ImageReleaseNo="0.0.0.0" />
+  <DeltaDownload>deltas\40\cds.rdf</DeltaDownload>
+  <DeltaDownload>deltas\40\ChromIdentification.rdf</DeltaDownload>
+  <DeltaDownload>deltas\40\deltaES2RTID.rdf</DeltaDownload>
+  <DeltaDownload>deltas\40\deltaImageLibrary_1033.rdf</DeltaDownload>
+  <DeltaDownload>deltas\40\deltaMain.rdf</DeltaDownload>
+  <DeltaDownload>deltas\40\deltaTextLibrary_137_1033.rdf</DeltaDownload>
+  <DeltaDownload>deltas\40\deltaTextLibrary_2_1033.rdf</DeltaDownload>
+  <DeltaDownload>deltas\40\ProjectCharacteristics.rdf</DeltaDownload>
+  <DeltaDownload>deltas\40\config\config.level</DeltaDownload>
+  <DeltaDownload>deltas\40\screens\screen_248.rdf</DeltaDownload>
+  <DeltaDownload>deltas\40\screens\screen_249.rdf</DeltaDownload>
+</DownloadTask>
